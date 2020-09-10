@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/chroma v0.8.0
 	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 // indirect
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.27.1
+	github.com/aws/aws-sdk-go v1.31.13
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
 	github.com/bep/golibsass v0.7.0
@@ -54,16 +54,12 @@ require (
 	github.com/tdewolff/minify/v2 v2.6.2
 	github.com/yuin/goldmark v1.1.31
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
-	go.opencensus.io v0.22.0 // indirect
-	gocloud.dev v0.15.0
+	gocloud.dev v0.20.0
 	golang.org/x/image v0.0.0-20191214001246-9130b4cfad52
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
-	golang.org/x/oauth2 v0.0.0-20190523182746-aaccbc9213b0 // indirect
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
 	golang.org/x/text v0.3.3
-	google.golang.org/api v0.5.0
-	google.golang.org/appengine v1.6.0 // indirect
-	google.golang.org/genproto v0.0.0-20190522204451-c2c4e71fbf69 // indirect
+	google.golang.org/api v0.26.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/ini.v1 v1.51.1 // indirect
 	gopkg.in/yaml.v2 v2.3.0
