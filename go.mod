@@ -62,7 +62,7 @@ require (
 	golang.org/x/image v0.0.0-20191214001246-9130b4cfad52
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
-	golang.org/x/text v0.3.4
+	golang.org/x/text v0.3.5
 	google.golang.org/api v0.26.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/ini.v1 v1.51.1 // indirect
