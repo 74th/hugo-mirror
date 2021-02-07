@@ -11,7 +11,7 @@ require (
 	github.com/aws/aws-sdk-go v1.36.33
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
-	github.com/bep/godartsass v0.11.0
+	github.com/bep/godartsass v0.12.0
 	github.com/bep/golibsass v0.7.0
 	github.com/bep/tmc v0.5.1
 	github.com/cli/safeexec v1.0.0
@@ -47,7 +47,7 @@ require (
 	github.com/rogpeppe/go-internal v1.6.2
 	github.com/russross/blackfriday v1.5.3-0.20200218234912-41c5fccfd6f6
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
-	github.com/sanity-io/litter v1.3.0
+	github.com/sanity-io/litter v1.5.0
 	github.com/spf13/afero v1.5.1
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/cobra v1.1.1
