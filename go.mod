@@ -18,7 +18,7 @@ require (
 	github.com/disintegration/gift v1.2.1
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/evanw/esbuild v0.11.0
+	github.com/evanw/esbuild v0.11.9
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.3
 	github.com/fsnotify/fsnotify v1.4.9
@@ -40,7 +40,7 @@ require (
 	github.com/muesli/smartcrop v0.3.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/nicksnyder/go-i18n/v2 v2.1.1
-	github.com/niklasfasching/go-org v1.4.0
+	github.com/niklasfasching/go-org v1.5.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml v1.8.1
 	github.com/pkg/errors v0.9.1
