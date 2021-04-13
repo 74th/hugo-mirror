@@ -22,7 +22,7 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.3
 	github.com/fsnotify/fsnotify v1.4.9
-	github.com/getkin/kin-openapi v0.39.0
+	github.com/getkin/kin-openapi v0.54.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.2.2
 	github.com/gobwas/glob v0.2.3
@@ -40,7 +40,7 @@ require (
 	github.com/muesli/smartcrop v0.3.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/nicksnyder/go-i18n/v2 v2.1.1
-	github.com/niklasfasching/go-org v1.4.0
+	github.com/niklasfasching/go-org v1.5.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml v1.8.1
 	github.com/pkg/errors v0.9.1
